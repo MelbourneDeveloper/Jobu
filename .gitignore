@@ -1,0 +1,12 @@
+*.Designer.cs
+*.csproj.user
+/NuGet/Exported/
+bin/
+obj/
+packages/
+/.vs/restore.dg
+*.suo
+.vs
+*.pdb
+*.dll
+
